@@ -8,7 +8,7 @@ namespace ProgramaCSharp
 {
     internal class AreaTriangula
     {
-        static void Main(string[] args)
+        static void ain(string[] args)
         {
             double area = 0;
             double altura = 0;

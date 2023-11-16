@@ -14,15 +14,22 @@ namespace ProgramaCSharp
             double n2 = 0;
             double resto = 0;
             double quociente = 0;
+            List<double> lista = new List<double>();
 
             Console.WriteLine("Programa que efetua a divisão de dois números");
-            for (int i = 1; i <= 2; i++)
+            for (int i = 0; i <= 1; i++)
             {
-                Console.Write("Informe o " + i + "º número: ");
-                n1 = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Informe o " + i + "° número: ");
-                n2 = Convert.ToDouble(Console.ReadLine());
+                Console.Write("Informe o " + (i+1) + "º número: ");
+                lista.Add(Convert.ToDouble(Console.ReadLine()));
             }
+
+            quociente = lista[0] / lista[1];
+            resto = lista[0] % lista[1];
+
+
+            Console.WriteLine("O quociente da divisão é = " + quociente);
+            Console.WriteLine("O resto da divisão é = " +  resto);
+            Console.ReadKey();
         }
 
     }

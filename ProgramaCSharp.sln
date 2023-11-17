@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramaCSharp", "ProgramaC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivisaoNumeros", "DivisaoNumeros\DivisaoNumeros.csproj", "{2C7B52FC-4D26-4A89-8F41-48843F700B85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "ParOuImpar\ParOuImpar.csproj", "{400B9B8A-616C-4AD5-B9CE-D5F0F030DC6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2C7B52FC-4D26-4A89-8F41-48843F700B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C7B52FC-4D26-4A89-8F41-48843F700B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C7B52FC-4D26-4A89-8F41-48843F700B85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400B9B8A-616C-4AD5-B9CE-D5F0F030DC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400B9B8A-616C-4AD5-B9CE-D5F0F030DC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400B9B8A-616C-4AD5-B9CE-D5F0F030DC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400B9B8A-616C-4AD5-B9CE-D5F0F030DC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

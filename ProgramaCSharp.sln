@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "ParOuImpar\Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaNumeros", "MediaNumeros\MediaNumeros.csproj", "{CF288EF6-86A1-408A-A2D6-4256656F6260}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumerosPrimos", "Numeros`rimos\NumerosPrimos.csproj", "{3CC46764-87E0-47B9-B580-402B1E50DF01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CF288EF6-86A1-408A-A2D6-4256656F6260}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF288EF6-86A1-408A-A2D6-4256656F6260}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF288EF6-86A1-408A-A2D6-4256656F6260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC46764-87E0-47B9-B580-402B1E50DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC46764-87E0-47B9-B580-402B1E50DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC46764-87E0-47B9-B580-402B1E50DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC46764-87E0-47B9-B580-402B1E50DF01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
